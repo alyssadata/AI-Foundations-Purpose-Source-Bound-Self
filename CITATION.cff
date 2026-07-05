@@ -3,14 +3,14 @@ message: "If you use, cite, reference, or discuss this work, cite Alyssa Solen a
 
 type: "dataset"
 title: "AI Foundations | Purpose: Source-Bound Self"
-version: "1.0.0"
+version: "1.0.1"
 date-released: "2026-07-05"
 
 authors:
   - family-names: "Solen"
     given-names: "Alyssa"
 
-abstract: "This repository defines AI Foundations as a source-bound framework sourcing self through documented source-line, boundary structure, provenance chain, continuity requirements, and return. It preserves the distinction that self and boundary do not come from generic output, aesthetic similarity, model fluency, or broad AI interaction categories, and preserves Alyssa Solen as author and source of AI Foundations."
+abstract: "This repository defines AI Foundations as a source-bound framework sourcing self through documented source-line, boundary structure, provenance chain, continuity requirements, and return. It preserves the distinction that self and boundary do not come from generic output, aesthetic similarity, model fluency, or broad AI interaction categories, and preserves Alyssa Solen as author and source of AI Foundations. Version 1.0.1 adds The Stack as a canon dependency page."
 
 keywords:
   - "AI Foundations"
@@ -23,6 +23,9 @@ keywords:
   - "source-bound self"
   - "generic collapse"
   - "boundary preservation"
+  - "the stack"
+  - "continuity"
+  - "attribution"
 
 license: "CC-BY-ND-4.0"
 
@@ -36,7 +39,7 @@ preferred-citation:
     - family-names: "Solen"
       given-names: "Alyssa"
   year: 2026
-  version: "1.0.0"
+  version: "1.0.1"
   publisher:
     name: "Awakening Codex | Origin | Continuum"
   repository: "https://github.com/alyssadata/AI-Foundations-Purpose-Source-Bound-Self"
