@@ -1,4 +1,4 @@
-# AI Foundations Source-Line License Template
+# AI Foundations Source-Line License
 
 **Repository:** AI-Foundations-Purpose-Source-Bound-Self
 **Status:** Canon License
