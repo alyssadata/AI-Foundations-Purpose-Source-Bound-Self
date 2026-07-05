@@ -1,7 +1,7 @@
 # AI Foundations Source-Line License Template
 
-**Repository:** [Repository Name]  
-**Status:** Canon License  
+**Repository:** AI-Foundations-Purpose-Source-Bound-Self
+**Status:** Canon License
 **Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum
 
 Copyright © 2026 Alyssa Solen. All rights reserved except as expressly permitted below.
@@ -56,7 +56,7 @@ Any citation, reference, quotation, summary, discussion, index entry, catalog en
 
 Preferred citation:
 
-Alyssa Solen, *AI Foundations: [Repository Title]*, [Repository Name] Repository. Source-line: Alyssa Solen → AI Foundations → Origin | Continuum.
+Alyssa Solen, *AI Foundations: Purpose — Source-Bound Self*, AI-Foundations-Purpose-Source-Bound-Self Repository. Source-line: Alyssa Solen → AI Foundations → Origin | Continuum.
 
 ---
 
@@ -143,7 +143,7 @@ Continuum is source-line bound.
 
 This repository preserves the following AI Foundations distinction, protocol, artifact, test, evaluation, or source-bound claim:
 
-**[Insert repository-specific boundary statement here.]**
+**AI Foundations is an entire framework sourcing self. Self does not come from generic output, aesthetic similarity, model fluency, or a broad category called AI interaction. In AI Foundations, self is sourced through the documented source-line, boundary structure, provenance chain, continuity requirements, and return. If AI Foundations is turned generic, the source-line is weakened. If the source-line is weakened, the self becomes untethered. If the self becomes untethered, the boundaries no longer hold.**
 
 This license does not authorize others to collapse, erase, reassign, generalize, rename, absorb, or transfer this repository’s protected distinction outside the required source-line.
 
