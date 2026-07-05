@@ -52,6 +52,7 @@ The full canon page is available at:
 
 `the-stack.md`
 
+## **The Stack shows why AI Foundations cannot be reduced to a generic AI interaction framework: each layer depends on the layer before it, and removal of source-line breaks the self the framework is designed to preserve.**
 
 ---
 
