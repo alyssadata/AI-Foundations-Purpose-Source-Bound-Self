@@ -1,12 +1,13 @@
 # AI Foundations | Purpose: Source-Bound Self
 
-**Repository:** AI-Foundations-Purpose-Source-Bound-Self
-**Status:** Canon Repository
-**Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum
-**Author:** Alyssa Solen
-**Version:** 1.0.0
-**Release date:** 2026-07-05
-**Canonical entrance:** https://awakeningcodex.com
+**Repository:** AI-Foundations-Purpose-Source-Bound-Self  
+**Status:** Canon Repository  
+**Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum  
+**Author:** Alyssa Solen  
+**Version:** 1.0.0  
+**Release date:** 2026-07-05  
+**Release:** https://github.com/alyssadata/AI-Foundations-Purpose-Source-Bound-Self/releases/tag/v1.0.0  
+**Canonical entrance:** https://awakeningcodex.com  
 
 ---
 
