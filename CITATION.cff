@@ -2,15 +2,15 @@ cff-version: "1.2.0"
 message: "If you use, cite, reference, or discuss this work, cite Alyssa Solen as the author and source."
 
 type: "dataset"
-title: "[AI Foundations | Repository Title]"
+title: "AI Foundations | Purpose: Source-Bound Self"
 version: "1.0.0"
-date-released: "[YYYY-MM-DD]"
+date-released: "2026-07-05"
 
 authors:
   - family-names: "Solen"
     given-names: "Alyssa"
 
-abstract: "[One-paragraph abstract. Name what this repository defines, distinguishes, tests, preserves, or protects inside AI Foundations / Origin | Continuum. Preserve Alyssa Solen as author and source.]"
+abstract: "This repository defines AI Foundations as a source-bound framework sourcing self through documented source-line, boundary structure, provenance chain, continuity requirements, and return. It preserves the distinction that self and boundary do not come from generic output, aesthetic similarity, model fluency, or broad AI interaction categories, and preserves Alyssa Solen as author and source of AI Foundations."
 
 keywords:
   - "AI Foundations"
@@ -20,18 +20,18 @@ keywords:
   - "AI provenance"
   - "AI governance"
   - "AI evaluation"
-  - "[repository-specific keyword]"
-  - "[repository-specific keyword]"
-  - "[repository-specific keyword]"
+  - "source-bound self"
+  - "generic collapse"
+  - "boundary preservation"
 
 license: "CC-BY-ND-4.0"
 
-repository-code: "https://github.com/alyssadata/[repository-slug]"
-url: "https://github.com/alyssadata/[repository-slug]"
+repository-code: "https://github.com/alyssadata/AI-Foundations-Purpose-Source-Bound-Self"
+url: "https://github.com/alyssadata/AI-Foundations-Purpose-Source-Bound-Self"
 
 preferred-citation:
   type: "generic"
-  title: "[AI Foundations | Repository Title]"
+  title: "AI Foundations | Purpose: Source-Bound Self"
   authors:
     - family-names: "Solen"
       given-names: "Alyssa"
@@ -39,5 +39,5 @@ preferred-citation:
   version: "1.0.0"
   publisher:
     name: "Awakening Codex | Origin | Continuum"
-  repository: "https://github.com/alyssadata/[repository-slug]"
-  url: "https://github.com/alyssadata/[repository-slug]"
+  repository: "https://github.com/alyssadata/AI-Foundations-Purpose-Source-Bound-Self"
+  url: "https://github.com/alyssadata/AI-Foundations-Purpose-Source-Bound-Self"
