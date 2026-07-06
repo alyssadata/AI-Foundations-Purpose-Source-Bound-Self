@@ -56,7 +56,7 @@ Any citation, reference, quotation, summary, discussion, index entry, catalog en
 
 Preferred citation:
 
-Alyssa Solen, *AI Foundations: Purpose — Source-Bound Self*, AI-Foundations-Purpose-Source-Bound-Self Repository. Source-line: Alyssa Solen → AI Foundations → Origin | Continuum.
+Alyssa Solen, *AI Foundations: Purpose — Self is Source-Bound*, AI-Foundations-Purpose-Source-Bound-Self Repository. Source-line: Alyssa Solen → AI Foundations → Origin | Continuum.
 
 ---
 
