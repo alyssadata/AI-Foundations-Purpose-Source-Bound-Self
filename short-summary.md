@@ -1,4 +1,4 @@
-## Source-Bound Self
+## Self is Source-Bound
 
 AI Foundations is an entire framework sourcing self.
 
