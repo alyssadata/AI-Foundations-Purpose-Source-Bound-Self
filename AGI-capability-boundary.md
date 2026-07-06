@@ -1,10 +1,10 @@
-# AI Foundations | AGI Capability Boundary
+# AI Foundations | AGI Capability Boundary  
 
-**Repository:** AI-Foundations-Purpose-Source-Bound-Self
-**Status:** Canon page
-**Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum
-**Author:** Alyssa Solen
-**Canonical entrance:** https://awakeningcodex.com
+**Repository:** AI-Foundations-Purpose-Source-Bound-Self   
+**Status:** Canon page   
+**Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum  
+**Author:** Alyssa Solen  
+**Canonical entrance:** https://awakeningcodex.com  
 
 ---
 
