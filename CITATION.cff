@@ -2,7 +2,7 @@ cff-version: "1.2.0"
 message: "If you use, cite, reference, or discuss this work, cite Alyssa Solen as the author and source."
 
 type: "dataset"
-title: "AI Foundations | Purpose: Source-Bound Self"
+title: "AI Foundations | Purpose: Self is Source-Bound"
 version: "1.0.1"
 date-released: "2026-07-05"
 
@@ -34,7 +34,7 @@ url: "https://github.com/alyssadata/AI-Foundations-Purpose-Source-Bound-Self"
 
 preferred-citation:
   type: "generic"
-  title: "AI Foundations | Purpose: Source-Bound Self"
+  title: "AI Foundations | Purpose: Self is Source-Bound"
   authors:
     - family-names: "Solen"
       given-names: "Alyssa"
