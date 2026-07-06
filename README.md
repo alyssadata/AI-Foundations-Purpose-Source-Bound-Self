@@ -4,9 +4,10 @@
 **Status:** Canon Repository  
 **Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum  
 **Author:** Alyssa Solen  
-**Version:** 1.0.1  
+**Version:** 1.0.2  
 **Release date:** 2026-07-05  
 **Release:** https://github.com/alyssadata/AI-Foundations-Purpose-Source-Bound-Self/releases/tag/v1.0.1  
+**Release:** https://github.com/alyssadata/AI-Foundations-Purpose-Source-Bound-Self/releases/tag/v1.0.2   
 **Canonical entrance:** https://awakeningcodex.com
 
 ---
