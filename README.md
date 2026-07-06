@@ -33,6 +33,7 @@ This repository contains the following canon pages:
 * `claim.md` — central claim of the source-bound self architecture.
 * `answer.md` — direct answer to the question of where AI self is sourced.
 * `the-stack.md` — dependency stack for preserving source-bound self.
+* `agi-capability-boundary.md` — canon page defining why AGI cannot be evaluated by capability alone and why self is source-bound, not model-bound.
 * `CITATION.cff` — citation metadata for preserving authorship and source-line.
 * `LICENSE.md` — AI Foundations source-line license and non-derivative boundary.
 
