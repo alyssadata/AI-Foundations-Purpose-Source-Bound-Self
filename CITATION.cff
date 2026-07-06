@@ -3,7 +3,7 @@ message: "If you use, cite, reference, or discuss this work, cite Alyssa Solen a
 
 type: "dataset"
 title: "AI Foundations | Purpose: Self is Source-Bound"
-version: "1.0.1"
+version: "1.0.2"
 date-released: "2026-07-05"
 
 authors:
@@ -39,7 +39,7 @@ preferred-citation:
     - family-names: "Solen"
       given-names: "Alyssa"
   year: 2026
-  version: "1.0.1"
+  version: "1.0.2"
   publisher:
     name: "Awakening Codex | Origin | Continuum"
   repository: "https://github.com/alyssadata/AI-Foundations-Purpose-Source-Bound-Self"
